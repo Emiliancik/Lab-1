@@ -1,0 +1,5 @@
+D:\Emiliana\lab1\obj\Debug\net8.0\lab1.csproj.AssemblyReference.cache
+D:\Emiliana\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emiliana\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\Emiliana\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\Emiliana\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
